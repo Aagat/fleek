@@ -38,8 +38,6 @@
       A modern replacement for ‘ls’.
       https://the.exa.website/
     config_lines:
-      - key: programs.eza.enableAliases
-        value:  true
       - key: programs.eza.extraOptions
         value:  |-
          [
